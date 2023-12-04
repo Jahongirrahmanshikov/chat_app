@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "/home/jahongir/Desktop/chat_app/linux"
+    "cmake.sourceDirectory": "/home/jahongir/Desktop/chat_app/linux",
+    "editor.inlineSuggest.showToolbar": "always"
 }
