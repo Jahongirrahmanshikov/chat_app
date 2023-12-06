@@ -12,6 +12,7 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
+  mask_text_input_formatter: ^2.7.0
 
 dev_dependencies:
   flutter_test:
@@ -23,8 +24,7 @@ flutter:
 
   uses-material-design: true
   assets:
-    - assets/images/
-    - assets/icons/
+    - asset/images/
 
   # fonts:
   #   - family: Schyler

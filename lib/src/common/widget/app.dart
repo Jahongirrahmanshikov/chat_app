@@ -1,3 +1,4 @@
+import 'package:chat_app/src/feature/auth/widgets/splash_screen_widget.dart';
 import 'package:flutter/material.dart';
 import '../../feature/auth/registration.dart';
 
